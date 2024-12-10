@@ -20,4 +20,4 @@ Bu döviz kuru dönüştürücüsünde, en son döviz kurlarını almak için ge
 - React: Kullanıcı arayüzünü yönetmek ve bileşen tabanlı yapı ile uygulamanın durumunu kontrol etmek için kullanıldı.
 
 ## Uygulama Demosu 
-uygulamayı gerçek zmaanlı deneyimlemek için   [Döviz Kuru](https://melikenurr.github.io/currency-rate-app/)sayfasını ziyaret edebilirsin.
+uygulamayı gerçek zmaanlı deneyimlemek için   [Döviz Kuru](https://melikenurr.github.io/currency-rate-app/) sayfasını ziyaret edebilirsin.
