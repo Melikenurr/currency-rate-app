@@ -1,8 +1,21 @@
-# React + Vite  [view demo](https://melikenurr.github.io/currency-rate-app/)
+# Döviz Kuru Uygulaması  [view demo](https://melikenurr.github.io/currency-rate-app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Bu uygulama, HTML, CSS ve React kullanarak döviz kurlarını oranları için gerçek zamanlı verileri getiren bir döviz dönüştürücü web uygulamasıdır. Uygulama, kullanıcıların kaynak ve hedef dövizi seçerek dövizleri dönüştürmesine olanak tanır. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Özellikler
+
+-Bir API kullanarak gerçek zamanlı döviz dönüştürme oranları
+- Basit arayüzü
+- Kaynak para birimini ve hedef para birimini seçin
+- Dönüştürülen para birimi değerinin görüntülenmesi
+
+## API Entegrasyonu
+
+Bu döviz kuru dönüştürücüsünde, en son döviz kurlarını almak için gerçek zamanlı bir döviz dönüştürme API'si kullanır. Bu projede kullanılan API, doğru ve güncel döviz dönüştürme verileri sağlayan [FreeCurrencyAPI](https://freecurrencyapi.com/)")'dir. 
+
+## Kullanılan Teknolojiler
+-HTML: Web sayfasının yapısını oluşturmak için kullanıldı.
+-CSS: Uygulamanın görsel stil ve düzenini sağlamak için kullanıldı.
+-JavaScript: Uygulamanın etkileşimli ve dinamik olmasını sağlamak için kullanıldı.
+-React: Kullanıcı arayüzünü yönetmek ve bileşen tabanlı yapı ile uygulamanın durumunu kontrol etmek için kullanıldı.
