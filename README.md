@@ -1,5 +1,5 @@
 # Döviz Kuru Uygulaması  
-
+:currency_exchange:
 
 Bu uygulama, HTML, CSS ve React kullanılarak geliştirilmiş bir döviz dönüştürücü web uygulamasıdır. Kullanıcılar, uygulama aracılığıyla farklı dövizlerin oranlarını gerçek zamanlı olarak görebilir ve istedikleri dövizler arasında dönüşüm yapabilirler.
 
@@ -19,5 +19,5 @@ Bu döviz kuru dönüştürücüsünde, en son döviz kurlarını almak için ge
 - JavaScript: Uygulamanın etkileşimli ve dinamik olmasını sağlamak için kullanıldı.
 - React: Kullanıcı arayüzünü yönetmek ve bileşen tabanlı yapı ile uygulamanın durumunu kontrol etmek için kullanıldı.
 
-## Uygulama Demosu 
-uygulamayı gerçek zmaanlı deneyimlemek için   [Döviz Kuru](https://melikenurr.github.io/currency-rate-app/) sayfasını ziyaret edebilirsin.
+## Uygulama Demo 
+Uygulamayı gerçek zmaanlı deneyimlemek için   [Döviz Kuru](https://melikenurr.github.io/currency-rate-app/) sayfasını ziyaret edebilirsin.
