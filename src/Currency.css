@@ -1,0 +1,69 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.container{
+	height: 100vh;
+	background: url('./images/currency.png');
+     display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 
+}
+.box{
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 40px;
+	border: 2px solid rgba(7, 37, 65, 0.363);
+	border-radius: 10px;
+	background: linear-gradient(rgba(91, 122, 158, 0.747), rgba(162, 199, 229, 0.692)); /* Yarı saydam beyaz */
+	
+}
+.box-change{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	margin: 35px;
+	gap: 20px;
+}
+.box-change input{
+	width: 100px;
+	height: 30px;
+}
+.box-change select{
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 8px;
+	margin: 7px;
+}
+.box-change .units{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+button{
+	font-size: 20px;
+	background-color: rgba(192, 16, 16, 0.904);
+	width: 150px;
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+	transition: background-color 1.8s ease, transform 0.3s ease, opacity 1.8s ease; /* Tüm geçişleri ekle */
+}
+
+button:hover{
+	background-color: rgb(3, 14, 85); 
+    transform: scale(1.1); 
+    opacity: 0.8; 	
+}
+
+.box .box-title{
+	background-color: rgba(240, 248, 255, 0.74);
+	padding: 20px;
+}
